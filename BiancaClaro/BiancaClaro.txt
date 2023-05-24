@@ -1,0 +1,4 @@
+    Olá! 
+    Sou a Bianca, tenho 26 anos, sou natural de Guarulhos, região metropolitana de São Paulo e atualmente moro em São Paulo capital no bairro Lapa. Vim para área de tecnologia através de transição de carreira, sou formada inicialmente em gestão ambiental pela USP e atuei  por 3 anos na área ambiental, porém em 2020 fiz o bootcamp da Laboratória em desenvolvimento front-end e atualmente sou graduanda de bacharel em Tecnologia de Informação na Univesp. Ja trabalho com desenvolvimento a 2 anos em .net e angular.
+    Sou mãe de um meninão de 10 anos chamado Ivan e de 2 gatitos chamado Snow e Cuca, no meu tempo livre gosto muito de assistir filmes, séries e desenhos da cultura pop/nerd, jogar jogos virtuais e de tabuleiro, de viajar a ecoturismo, e também de beber e frequentar bares em galera. Minha expectativa no bootcamp é conhecer e sair do zero em GO kkk
+    
